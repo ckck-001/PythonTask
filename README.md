@@ -22,8 +22,7 @@ for i in range(a, b+1)  # a부터 b까지 i 할당
 for j in range(a, b+1)  # a부터 b까지 j 할당
 
 ## 45
-for i in a
-  result += i  # a의 요소들 합 구하기
+result += i  # a의 요소들 합 구하기
 ---
 
 
